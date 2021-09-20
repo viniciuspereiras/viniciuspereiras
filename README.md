@@ -1,7 +1,6 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspereiras&show_icons=true&theme=gruvbox) <a href='https://viniciuspereiras.github.io'> <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="220" height="220" /> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspereiras&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
