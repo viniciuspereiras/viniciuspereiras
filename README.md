@@ -1,7 +1,7 @@
-
-<!-- ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspereiras&show_icons=true&theme=cobalt)  
- -->
-<img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="220" height="220" /> </a>
+ 
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspereiras&show_icons=true&theme=cobalt)  
+ 
+<!-- <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="220" height="220" /> </a> -->
 
 
   
