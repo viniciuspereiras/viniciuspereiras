@@ -1,4 +1,6 @@
- 
+<img src="https://dday.migeater.net/wiki/images/0/02/Aj1_3d.gif"> 
+
+
 ![viniciuspereiras's Stats](https://github-readme-stats.vercel.app/api?username=viniciuspereiras&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 <!-- <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="220" height="220" /> </a> -->
 
